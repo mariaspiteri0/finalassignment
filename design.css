@@ -2,11 +2,30 @@ body {
     background-color: black;
     }
     h1{
-        font-family: 'Bebas Neue', cursive;
-        color: darksalmon;
-        text-align: center;
+        font-family: 'Neue Metana', sans-serif;
+        color: white;
+        font-size: -webkit-xxx-large;
+        text-align: left;
+        padding: 20px;
+        padding-right: 5px;
+        margin: 10px;
+        letter-spacing: 0.1rem;
     }
     
-    h1::hover {
-        color: white;
+    h1:hover {
+        color: pink;
     }    
+    p{
+        color: white;
+    }
+    .list-group-item{
+        font-family: 'Neue Metana', sans-serif;
+        color: white;
+        background-color: black;
+    }
+    .list-group{
+text-align: right;   }
+
+.list-group-item:hover{
+    color: pink;
+}
