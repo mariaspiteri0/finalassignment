@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    }
+    h1{
+        font-family: 'Bebas Neue', cursive;
+        color: darksalmon;
+        text-align: center;
+    }
+    
+    h1::hover {
+        color: white;
+    }    
