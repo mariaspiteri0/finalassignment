@@ -29,3 +29,18 @@ text-align: right;   }
 .list-group-item:hover{
     color: pink;
 }
+.navbar{
+    font-family: 'Neue Metana', sans-serif;
+    background-color: black;
+}
+a{
+    color: white;
+    font-family: 'Neue Metana', sans-serif;
+    text-align: center;
+}
+a:hover{
+    color: pink;
+}
+#navbarNavAltMarkup{
+    text-align: center;
+}
