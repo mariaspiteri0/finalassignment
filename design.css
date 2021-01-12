@@ -44,3 +44,14 @@ a:hover{
 #navbarNavAltMarkup{
     text-align: center;
 }
+
+.carousel-item{
+    height: 700px;
+    width: 700px;
+}
+
+.carousel-inner{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
