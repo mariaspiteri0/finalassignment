@@ -41,17 +41,20 @@ a{
 a:hover{
     color: pink;
 }
-#navbarNavAltMarkup{
-    text-align: center;
-}
-
+/*
 .carousel-item{
     height: 700px;
-    width: 700px;
+    width: 1920px;
 }
 
 .carousel-inner{
     margin: auto;
     width: 50%;
+    height: 50%;
     padding: 10px;
 }
+*/
+img {
+    width: 100%;
+    height: auto;
+  }
