@@ -69,11 +69,10 @@ background-color: black;
 color: white;
   }
   
-/*
-  input:focus {
-    background-color: pink;
-  }
-
-  textarea:focus {
-    background-color: pink;
-  }
+  .fa{
+    color: black;
+    width: 100%;
+  padding: 1em;
+  margin: 33px auto 19px auto;
+  font-size: 45px;
+}
