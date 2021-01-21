@@ -1,5 +1,7 @@
 body {
+    background-image: url(scribble.gif);
     background-color: pink;
+    background-size: 55%;
     }
     h1{
         font-family: 'Neue Metana', sans-serif;
