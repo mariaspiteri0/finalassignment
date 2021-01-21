@@ -15,7 +15,7 @@ body {
     }
     
     h1:hover {
-        color: white;
+        color: pink;
     }    
     p{
         color: black;
@@ -41,7 +41,7 @@ a{
     text-align: center;
 }
 a:hover{
-    color: white;
+    color: pink;
 }
 
 .container{
