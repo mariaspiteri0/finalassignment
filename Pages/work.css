@@ -1,0 +1,104 @@
+body {
+    background-color: white;
+    }
+    h1{
+        font-family: 'Neue Metana', sans-serif;
+        color: black;
+        font-size: -webkit-xxx-large;
+        text-align: left;
+        padding: 20px;
+        padding-right: 5px;
+        margin: 10px;
+        letter-spacing: 0.1rem;
+    }
+    
+    h1:hover {
+        color: pink;
+    }    
+    p{
+        color: black;
+    }
+    .list-group-item{
+        font-family: 'Neue Metana', sans-serif;
+        color: black;
+        background-color: white;
+    }
+    .list-group{
+text-align: right;   }
+
+.list-group-item:hover{
+    color: pink;
+}
+.navbar{
+    font-family: 'Neue Metana', sans-serif;
+    background-color: pinl;
+}
+a{
+    color: black;
+    font-family: 'Neue Metana', sans-serif;
+    text-align: center;
+}
+a:hover{
+    color: pink;
+}
+
+img{
+    display: inline-block;
+    width: 38.9%;
+    height: 38.9%;
+    margin: auto;
+    border: 3px solid pink;
+    vertical-align: middle;
+    color: black;
+    /*
+    -webkit-filter: grayscale(80%);
+*/
+}
+
+
+
+
+.container {
+  position: relative;
+  width: 50%;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: pink;
+  color: white;
+  font-family: 'Neue Metana', sans-serif;
+text-align: center;
+font-size: xx-large;
+position: center;
+}
+
+.container:hover .overlay {
+  opacity: 1;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
