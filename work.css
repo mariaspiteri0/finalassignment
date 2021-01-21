@@ -56,7 +56,13 @@ img {
 
 }
 
-
+.fa{
+    color: black;
+    width: 100%;
+  padding: 1em;
+  margin: 33px auto 19px auto;
+  font-size: 45px;
+}
 /*
 
 .container {
