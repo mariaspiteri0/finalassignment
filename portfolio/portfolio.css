@@ -1,0 +1,64 @@
+body {
+    background-color: black;
+    }
+    h1{
+        font-family: 'Neue Metana', sans-serif;
+        color: white;
+        font-size: -webkit-xxx-large;
+        text-align: left;
+        padding: 20px;
+        padding-right: 5px;
+        margin: 10px;
+        letter-spacing: 0.1rem;
+    }
+    
+    h1:hover {
+        color: pink;
+    }    
+    p{
+        color: white;
+    }
+    .list-group-item{
+        font-family: 'Neue Metana', sans-serif;
+        color: white;
+        background-color: black;
+    }
+    .list-group{
+text-align: right;   }
+
+.list-group-item:hover{
+    color: pink;
+}
+.navbar{
+    font-family: 'Neue Metana', sans-serif;
+    background-color: black;
+}
+a{
+    color: white;
+    font-family: 'Neue Metana', sans-serif;
+    text-align: center;
+}
+a:hover{
+    color: pink;
+}
+
+h2{
+    text-align: center;
+    font-size: 20pt;
+    color: white;
+    font-family: 'Neue Metana', sans-serif;
+
+}
+
+p{
+    text-align: center;
+    font-size: 10pt;
+    color: white;
+    font-family: 'Neue Metana', sans-serif;
+}
+
+img{
+    width: 60%;
+    padding: 1em;
+    margin: 33px auto 19px auto;
+}
