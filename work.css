@@ -31,7 +31,7 @@ text-align: right;   }
 }
 .navbar{
     font-family: 'Neue Metana', sans-serif;
-    background-color: pinl;
+    background-color: pink;
 }
 a{
     color: black;
@@ -41,22 +41,25 @@ a{
 a:hover{
     color: pink;
 }
+img:hover{
+    transition: .5s ease;
+    -webkit-filter: grayscale(80%);
+}
 
-img{
-    display: inline-block;
-    width: 38.9%;
-    height: 38.9%;
-    margin: auto;
-    border: 3px solid pink;
-    vertical-align: middle;
-    color: black;
+img {
+    width: 417px;
+    margin: 33px auto 19px auto;
+    float: inherit;
+    width: 30% auto;
+    margin: 1.66%;
+
+}
     /*
     -webkit-filter: grayscale(80%);
 */
-}
 
 
-
+/*
 
 .container {
   position: relative;
@@ -84,7 +87,6 @@ img{
   font-family: 'Neue Metana', sans-serif;
 text-align: center;
 font-size: xx-large;
-position: center;
 }
 
 .container:hover .overlay {
