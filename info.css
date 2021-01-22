@@ -49,3 +49,22 @@ a:hover{
   margin: 33px auto 19px auto;
   font-size: 45px;
 }
+
+img{
+    width: 350px;
+    margin: 33px auto 19px auto;
+    float: inherit;
+    width: 30% auto;
+    margin: 1.66%;
+    align-items: center;
+    text-align: center;
+    border-style: dashed;
+    border-color: white;
+
+}
+p{
+    font-family: 'Neue Metana', sans-serif;
+text-align: center;
+font-size: 25pt;
+margin: 10%;
+}
