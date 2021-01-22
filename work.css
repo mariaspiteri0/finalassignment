@@ -1,5 +1,5 @@
 
-@import url('http://fonts.cdnfonts.com/css/neue-metana');
+@import url('NeueMetana-Regular.otf');
 
 body {
   
@@ -57,7 +57,6 @@ img {
     width: 417px;
     margin: 33px auto 19px auto;
     float: inherit;
-    width: 30% auto;
     margin: 1.66%;
 
 }
