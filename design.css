@@ -17,7 +17,7 @@
     font-family: 'Neue Metana';
     src: url('webfont.eot'); /* IE9 Compat Modes */
     src: url('NeueMetana-Regular.otf')  format('truetype'), /* Safari, Android, iOS */
-
+}
 
 body {
     background-color: black;
