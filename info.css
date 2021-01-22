@@ -1,5 +1,7 @@
 body {
     background-color: pink;
+    font-family: 'Neue Metana', sans-serif;
+
     }
     h1{
         font-family: 'Neue Metana', sans-serif;
@@ -50,8 +52,9 @@ a:hover{
   font-size: 45px;
 }
 
+
 img{
-    width: 350px;
+    width: 100%;
     margin: 33px auto 19px auto;
     float: inherit;
     width: 30% auto;
@@ -65,6 +68,6 @@ img{
 p{
     font-family: 'Neue Metana', sans-serif;
 text-align: center;
-font-size: 25pt;
+font-size: 90%;
 margin: 10%;
 }
