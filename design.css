@@ -1,17 +1,5 @@
 @import url('NeueMetana-Regular.otf');
-/*@font-face {
-    font-family: 'Neue Metana';
-    font-style: normal;
-    font-weight: 400;
-    src: local('Neue Metana'), url('https://fonts.cdnfonts.com/s/33980/NeueMetana-Regular.woff') format('woff');
-}
-@font-face {
-    font-family: 'Neue Metana';
-    font-style: normal;
-    font-weight: 700;
-    src: local('Neue Metana'), url('https://fonts.cdnfonts.com/s/33980/NeueMetana-Bold.woff') format('woff');
-}
-*/
+
 
 body {
     background-color: black;
