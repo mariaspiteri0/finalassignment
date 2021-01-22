@@ -1,4 +1,27 @@
 @import url('http://fonts.cdnfonts.com/css/neue-metana');
+@font-face {
+    font-family: 'Neue Metana';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Neue Metana'), url('https://fonts.cdnfonts.com/s/33980/NeueMetana-Regular.woff') format('woff');
+}
+@font-face {
+    font-family: 'Neue Metana';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Neue Metana'), url('https://fonts.cdnfonts.com/s/33980/NeueMetana-Bold.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Neue Metana';
+    src: url('webfont.eot'); /* IE9 Compat Modes */
+    src: url('webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
+         url('webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
+  }
 
 body {
     background-color: black;
