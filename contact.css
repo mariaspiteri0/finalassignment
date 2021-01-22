@@ -1,4 +1,4 @@
-@import url('http://fonts.cdnfonts.com/css/neue-metana');
+@import url('NeueMetana-Regular.otf');
 
 body {
     background-image: url(scribble.gif);
@@ -37,7 +37,7 @@ text-align: right;   }
 }
 .navbar{
     font-family: 'Neue Metana', sans-serif;
-    background-color: pinl;
+    background-color: pink;
 }
 a{
     color: black;
