@@ -1,5 +1,5 @@
-@import url('http://fonts.cdnfonts.com/css/neue-metana');
-@font-face {
+@import url('NeueMetana-Regular.otf');
+/*@font-face {
     font-family: 'Neue Metana';
     font-style: normal;
     font-weight: 400;
@@ -11,13 +11,7 @@
     font-weight: 700;
     src: local('Neue Metana'), url('https://fonts.cdnfonts.com/s/33980/NeueMetana-Bold.woff') format('woff');
 }
-
-
-@font-face {
-    font-family: 'Neue Metana';
-    src: url('webfont.eot'); /* IE9 Compat Modes */
-    src: url('NeueMetana-Regular.otf')  format('truetype'), /* Safari, Android, iOS */
-}
+*/
 
 body {
     background-color: black;
@@ -63,19 +57,14 @@ a{
 a:hover{
     color: pink;
 }
-/*
-.carousel-item{
-    height: 700px;
-    width: 1920px;
-}
-*/
+
 .carousel-inner{
     margin: auto;
     width: 80%;
     height: 80%;
     padding: 10px;
 }
-*/
+
 img {
     width: 30%;
     height: auto;
